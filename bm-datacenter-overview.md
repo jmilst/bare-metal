@@ -82,5 +82,3 @@ Availability of data centers differs for bare metal servers and virtual server i
 | | TOK05 |
 {: caption="Table 1. IBM Cloud data center locations" caption-side="top"}-->
 
-Availability of data centers differ for bare metal servers and virtual server instances.
-{: note}
